@@ -32,7 +32,6 @@ public class Registration extends AppCompatActivity {
         btnRegisterAccount = findViewById(R.id.btnRegisterAccount);
 
         //Predefining accounts
-        preRegs.put("henry", "123456");
         preRegs.put("aner", "123456");
         preRegs.put("admin", "123456");
 
